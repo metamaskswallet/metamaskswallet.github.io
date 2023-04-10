@@ -65,5 +65,5 @@ This step is to verify your mnemonic words from the previous step, with the aim 
 > Chain Address
 ![image.png](/images/2023/04/10/2194c0b3-eb95-44d1-8cf9-de8caee45c8a.png)
 
-
+## Contact me
 If there are any unclear points during installation and use, you can [Telegram](https://t.me/metarmaskswallet) Contact me.
