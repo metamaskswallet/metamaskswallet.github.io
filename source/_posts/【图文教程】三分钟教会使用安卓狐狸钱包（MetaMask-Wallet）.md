@@ -62,3 +62,6 @@ date: 2023-04-10 10:51:20
 
 > 链地址
 ![image.png](/images/2023/04/10/2194c0b3-eb95-44d1-8cf9-de8caee45c8a.png)
+
+
+安装使用过程中如有不明白的地方，可以[Telegram](https://t.me/metarmaskswallet)联系我：
