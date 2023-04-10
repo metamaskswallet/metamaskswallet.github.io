@@ -15,6 +15,7 @@ Both are possible. It is recommended to download the official APK I provided and
 # 2. Download, Install, and Use
 
 ## Step 1: Create a wallet
+<!-- more -->
 ![image.png](/images/2023/04/10/50ce9e87-20ed-40df-9c81-f312565e51d2.png)
 
 ![image.png](/images/2023/04/10/a1726d31-05ea-47a4-8b2b-ed2d02fce6e7.png)

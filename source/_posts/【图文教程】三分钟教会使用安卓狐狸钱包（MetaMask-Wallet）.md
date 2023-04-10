@@ -16,6 +16,7 @@ date: 2023-04-10 10:51:20
 
 # 2、下载安装和使用
 ## 第一步：创建钱包
+<!-- more -->
 ![image.png](/images/2023/04/10/50ce9e87-20ed-40df-9c81-f312565e51d2.png)
 
 ![image.png](/images/2023/04/10/a1726d31-05ea-47a4-8b2b-ed2d02fce6e7.png)
